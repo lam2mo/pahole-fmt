@@ -183,3 +183,5 @@ To contribute, submit a pull request or email the author directly.
 ## Release
 
 This software is released under the MIT license.
+
+Copyright (C) 2019 Michael O. Lam
